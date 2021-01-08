@@ -1,2 +1,4 @@
 # Project exclude paths
 /aop-overview/target/
+.idea
+*.iml
